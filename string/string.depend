@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1549681127 source:c:\users\asus\desktop\string\main.cpp
+	<iostream>
+	"hadi.h"
+
+1549681351 c:\users\asus\desktop\string\hadi.h
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552576832 source:e:\level-ll term-l\c++ basic, atik sir\uva train\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+

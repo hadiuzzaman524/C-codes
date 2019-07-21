@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552667520 source:e:\level-ll term-l\c++ basic, atik sir\word count\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1550895103 source:e:\level-ll term-l\c++ basic, atik sir\string operation\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+
